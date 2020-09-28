@@ -1,0 +1,19 @@
+npx create-react-app projectname
+(npx for run pakcage "create-react-app" directly from repo even without installing package.)
+
+
+topics:
+id
+topics
+topic_id (recursive)
+
+notes: 
+id
+title
+topic_id
+desription
+
+
+note_refnote
+ref_note_id
+note_id
